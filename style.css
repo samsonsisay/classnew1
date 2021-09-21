@@ -46,6 +46,7 @@ a:hover{
       flex: 1;
       order: 1;
       background-image: url(phh.JPG);
+      opacity: 0.8;
       height: 400pt;
       background-size: cover;
       text-align: right;
