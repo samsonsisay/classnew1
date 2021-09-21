@@ -1,6 +1,8 @@
 body{
-    background-color: aquamarine;
+    font-family: "Nunito";
 }
+
+
 /**
 #navigation ul{
 list-style: none;
@@ -10,6 +12,18 @@ word-spacing: 10pt;
     display: inline;
 }
 **/
+h1{
+    font-family: "EB Garamond";
+    font-weight: 500;
+color:rgb(238, 112, 9) ;
+}
+h2,h3,h4,h5,h6{
+    font-family: "EB Garamond";
+    font-weight: 500;
+color:rgb(88, 23, 11) ;
+}
+
+
 
 a{
     text-decoration: none;
@@ -17,7 +31,7 @@ a{
     font-size: 15pt;
     color: yellow;
     background-size: 100%;
-    background-color: teal;
+    background-color: none;
     padding: 1pt;
 }
 a:hover{
@@ -51,4 +65,9 @@ a:hover{
     height: 400pt;
   }
 
+
+  .button {
+    text-decoration: none;
+   
+}
   
