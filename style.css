@@ -15,14 +15,18 @@ word-spacing: 10pt;
 h1{
     font-family: "EB Garamond";
     font-weight: 500;
-color:rgb(238, 112, 9) ;
+color:rgba(9, 135, 238, 0.918) ;
 }
-h2,h3,h4,h5,h6{
+h2{
     font-family: "EB Garamond";
     font-weight: 500;
 color:rgb(88, 23, 11) ;
 }
-
+h3,h4,h5,h6{
+    font-family: "EB Garamond";
+    font-weight: 500;
+color:rgb(42, 7, 107) ;
+}
 
 
 a{
