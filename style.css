@@ -16,6 +16,7 @@ h1{
     font-family: "EB Garamond";
     font-weight: 500;
 color:rgba(9, 135, 238, 0.918) ;
+font-weight: bold;
 }
 h2{
     font-family: "EB Garamond";
@@ -40,8 +41,7 @@ a{
 }
 a:hover{
     color: aliceblue;
-    background-color: brown
-
+  
 }
 .container{
     display: flex;
@@ -78,5 +78,24 @@ a:hover{
    
 }
 
+.button button{
+    width: 120px;
+    height: 25px;
+    transition: width 1s, height 1s;
+}
 
-  
+.button button:hover {
+width: 150px;
+height: 35px;
+ 
+
+}
+
+
+.photo {
+    border-radius: 50px;
+    width: auto;
+    margin-left: 20px;
+    height: 700px;
+    padding-top: 2px;
+}
